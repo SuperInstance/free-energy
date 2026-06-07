@@ -1,0 +1,9 @@
+[package]
+name = "free-energy"
+version = "0.1.0"
+edition = "2021"
+description = "Free energy principle implementation for agent homeostasis and surprise minimization"
+repository = "https://github.com/SuperInstance/free-energy"
+license = "MIT"
+
+[dependencies]
